@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/managers/device.ts","./src/managers/energymanager.ts","./src/managers/house.ts","./src/managers/light.ts","./src/managers/room.ts","./src/managers/thermostat.ts"],"version":"5.6.3"}
